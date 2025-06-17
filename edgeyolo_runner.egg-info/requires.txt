@@ -1,0 +1,17 @@
+numpy>=1.19.0
+onnxruntime>=1.15.0
+opencv-python>=4.5.0
+Pillow>=8.0.0
+
+[all]
+tensorflow>=2.8.0
+coremltools>=6.0
+
+[coreml]
+coremltools>=6.0
+
+[gpu]
+onnxruntime-gpu>=1.15.0
+
+[tflite]
+tensorflow>=2.8.0

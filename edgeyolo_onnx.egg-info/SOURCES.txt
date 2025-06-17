@@ -1,0 +1,10 @@
+README.md
+setup.py
+edgeyolo_onnx/__init__.py
+edgeyolo_onnx.egg-info/PKG-INFO
+edgeyolo_onnx.egg-info/SOURCES.txt
+edgeyolo_onnx.egg-info/dependency_links.txt
+edgeyolo_onnx.egg-info/requires.txt
+edgeyolo_onnx.egg-info/top_level.txt
+edgeyolo_onnx/models/__init__.py
+edgeyolo_onnx/models/detector.py

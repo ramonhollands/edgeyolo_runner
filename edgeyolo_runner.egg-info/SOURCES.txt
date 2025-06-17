@@ -1,0 +1,13 @@
+README.md
+setup.py
+edgeyolo_runner/__init__.py
+edgeyolo_runner.egg-info/PKG-INFO
+edgeyolo_runner.egg-info/SOURCES.txt
+edgeyolo_runner.egg-info/dependency_links.txt
+edgeyolo_runner.egg-info/requires.txt
+edgeyolo_runner.egg-info/top_level.txt
+edgeyolo_runner/models/__init__.py
+edgeyolo_runner/models/coreml_detector.py
+edgeyolo_runner/models/detector.py
+edgeyolo_runner/models/onnx_detector.py
+edgeyolo_runner/models/tflite_detector.py
